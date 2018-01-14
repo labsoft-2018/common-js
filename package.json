@@ -1,0 +1,17 @@
+{
+  "name": "common-js",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  }
+}
