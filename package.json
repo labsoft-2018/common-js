@@ -1,5 +1,5 @@
 {
-  "name": "common-js",
+  "name": "@labsoft-2018/common-js",
   "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
